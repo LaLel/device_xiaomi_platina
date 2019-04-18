@@ -1,5 +1,5 @@
-# 
-# Copyright (C) 2018 The RR Project
+#
+# Copyright (C) 2018 The LineageOS Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -23,13 +23,13 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/product_launched_with_n_mr1.mk
 $(call inherit-product, device/xiaomi/platina/device.mk)
 
 # Inherit some common LineageOS stuff.
-$(call inherit-product, vendor/rr/config/common_full_phone.mk)
+$(call inherit-product, vendor/du/config/common_full_phone.mk)
 
-PRODUCT_NAME := rr_platina
+PRODUCT_NAME := du_platina
 PRODUCT_BRAND := Xiaomi
 PRODUCT_DEVICE := platina
 PRODUCT_MANUFACTURER := Xiaomi
-PRODUCT_MODEL := MI 8 Lite
+PRODUCT_MODEL := Mi 8 Lite
 
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 
