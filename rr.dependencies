@@ -15,6 +15,6 @@
     "remote": "github",
     "repository": "nysadev/lyra-4.4",
     "target_path": "kernel/xiaomi/platina",
-    "branch": "pie"
+    "branch": "eas"
   }
 ]
