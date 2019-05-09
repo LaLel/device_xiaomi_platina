@@ -7,14 +7,14 @@
   },
   {
     "remote": "github",
-    "repository": "nysadev/android_vendor_xiaomi_platina",
+    "repository": "nysadev/vendor_xiaomi_platina",
     "target_path": "vendor/xiaomi/platina",
-    "branch": "master"
+    "branch": "pie"
   },
   {
     "remote": "github",
     "repository": "nysadev/lyra-4.4",
     "target_path": "kernel/xiaomi/platina",
-    "branch": "eas"
+    "branch": "pie"
   }
 ]
